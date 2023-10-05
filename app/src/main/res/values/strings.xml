@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FlashCard-HW3</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="loginBtn">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_msg">Welcome, %1$s!</string>
+    <string name="problemsBtn">Generate 10 Random Problems</string>
+    <string name="answer">Your Answer: </string>
+    <string name="submitBtn">Submit</string>
+<!--    <string name="addition">Addition</string>-->
+<!--    <string name="subtraction">Subtraction</string>-->
+    <string name="unknown">\?</string>
+</resources>
